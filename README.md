@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **Mlops**
 
-- 💬 Ask me about **🎓 ECE Engineering Student @ Panjab University, Chandigarh💡 Passionate about Data Science, Machine Learning 🔍 Always exploring new tech & real-world problem-solving**
+- 💬 Ask me about **🎓 ECE Engineering Student @ Panjab University, Chandigarh
+- 💡 Passionate about Data Science, Machine Learning
+- 🔍 Always exploring new tech & real-world problem-solving**
 
 - 📫 How to reach me **sarohaparveen002@gmail.com**
 
