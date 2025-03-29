@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parveen Saroha</h1>
-<h3 align="center">I am passionated about data science and machine learning</h3>
+<h3 align="center">I am passionate  about data science and machine learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-saroha&label=Profile%20views&color=0e75b6&style=flat" alt="p-saroha" /> </p>
 
