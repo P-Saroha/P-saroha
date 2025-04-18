@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MLops**
 
-- 💬 Ask me about **🎓 🎓 ECE @ PU | B.S. Data Science @ IITM | Aspiring Data Scientist | ML | Python | SQL | Projects + Internships
+- 💬 Ask me about🎓 ECE @ PU | 🎓 B.S. Data Science @ IITM | Aspiring Data Scientist | ML | Python | SQL | Projects + Internships
 - 💡 Passionate about Data Science, Machine Learning
 - 🔍 Always exploring new tech & real-world problem-solving**
 
