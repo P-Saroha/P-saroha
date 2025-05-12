@@ -11,7 +11,7 @@
 
 - 💬 About me 🎓 ECE @ PU | 🎓 B.S. Data Science @ IITM | Aspiring Data Scientist | ML | Python | SQL | Projects + Internships
 - 💡 Passionate about Data Science, Machine Learning
-- 🔍 Always exploring new tech & real-world problem-solving**
+- 🔍 Always exploring new tech & real-world problem-solving
 
 - 📫 How to reach me **sarohaparveen002@gmail.com**
 
