@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MLops**
+- 🌱 I’m currently learning **LLM's**
 
 - 💬 About me 🎓 ECE @ PU | 🎓 B.S. Data Science @ IITM | Aspiring Data Scientist | ML | Python | SQL | Projects + Internships
 - 💡 Passionate about Data Science, Machine Learning
