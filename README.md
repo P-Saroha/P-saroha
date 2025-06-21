@@ -1,7 +1,8 @@
 <!-- ✨ HEADER START -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Developer Avatar" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Developer Avatar" />
 </p>
+
 
 <h1 align="center">
   Hi there 👋, I'm <span style="color:#40E0D0">Parveen Saroha</span>
