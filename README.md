@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 </p>
-- Languages: Python, SQL, Java (OOP)
+Languages: Python, SQL, Java (OOP)
 
 ---
 
@@ -62,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
 </p>
-- Libraries: Scikit-learn, PyTorch, Flask, Pandas, NumPy, Matplotlib, Seaborn
+Libraries: Scikit-learn, PyTorch, Flask, Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
@@ -73,7 +73,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" />
 </p>
-- Tools: Git, VS Code, Google Colab, Jupyter Notebook
+Tools: Git, VS Code, Google Colab, Jupyter Notebook
 
 ---
 
@@ -82,7 +82,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" />
 </p>
-- Stack: Flask, REST APIs, Jinja2, Bootstrap
+Stack: Flask, REST APIs, Jinja2, Bootstrap
 
 ---
 
