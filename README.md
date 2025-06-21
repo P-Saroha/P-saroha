@@ -1,4 +1,4 @@
-<!-- ✨ NEW HEADER START -->
+<!-- ✨ HEADER START -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Developer Avatar" />
 </p>
@@ -11,15 +11,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7E3&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%7C+ML+Engineer;ECE+%40+PU+%7C+BS+Data+Science+%40+IITM;Python+%7C+SQL+%7C+Vue3+%7C+LLMs+%26+GenAI+Learner" alt="Typing SVG" />
 </p>
 
+<!-- 🔗 COOL BADGES -->
 <p align="center">
-  <a href="https://github.com/p-saroha">
-    <img src="https://komarev.com/ghpvc/?username=p-saroha&label=Profile+Views&color=0bd&style=flat-square" alt="p-saroha views" />
+  <a href="https://github.com/p-saroha" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=p-saroha&label=PROFILE+VIEWS&color=1DA1F2&style=for-the-badge" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/p-saroha?tab=followers">
-    <img src="https://img.shields.io/github/followers/p-saroha?label=Follow&style=social" alt="GitHub followers" />
+  <a href="https://github.com/p-saroha?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/p-saroha?label=FOLLOWERS&style=for-the-badge&color=blueviolet" alt="GitHub Followers"/>
   </a>
-  <a href="mailto:sarohaparveen002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-parveen002-blue?style=flat-square&logo=gmail" alt="Email" />
+  <a href="mailto:sarohaparveen002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Parveen002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -118,4 +119,6 @@ Stack: Flask, REST APIs, Jinja2, Bootstrap
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
