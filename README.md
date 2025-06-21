@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7E3&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%7C+ML+Engineer;ECE+%40+PU+%7C+BS+Data+Science+%40+IITM;Python+%7C+SQL+%7C+Vue+%7C+LLMs+%26+GenAI+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7E3&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%7C+ML+Engineer;ECE+%40+PU+%7C+BS+Data+Science+%40+IITM;Python+%7C+SQL+%7C+Vue3+%7C+LLMs+%26+GenAI+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,7 +24,6 @@
 </p>
 
 ---
-
 
 ## 👨‍💻 About Me
 
@@ -120,4 +119,3 @@ Stack: Flask, REST APIs, Jinja2, Bootstrap
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
