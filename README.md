@@ -19,9 +19,6 @@
   <a href="https://github.com/p-saroha?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/p-saroha?label=FOLLOWERS&style=for-the-badge&color=blueviolet" alt="GitHub Followers"/>
   </a>
-  <a href="mailto:sarohaparveen002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Parveen002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 ---
@@ -31,8 +28,7 @@
 - 🎓 ECE @ **Panjab University**, Chandigarh  
 - 🎓 B.S. Data Science @ **IIT Madras**  
 - 💡 Passionate about **Data Science**, **Machine Learning**, and real-world problem solving  
-- 🌱 Currently learning **LLMs (Large Language Models)** and **Generative AI**  
-- 📫 Reach me at: [Click to Email](mailto:sarohaparveen002@gmail.com)
+- 🌱 Currently learning **LLMs (Large Language Models)** and **Generative AI**
 
 ---
 
