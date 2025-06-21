@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Parveen+Saroha;Aspiring+Data+Scientist;ECE+@+PU+%7C+BS+@+IITM;Passionate+about+ML+%26+Real-World+Problems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Parveen+Saroha;Aspiring+Data+Scientist;ECE+@+PU+%7C+BS+@+IITM;ML+%7C+DS+%7C+Python+%7C+SQL+%7C+Vue3;Currently+learning+LLMs+and+Generative+AI" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,12 +21,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 ECE @ **Panjab University**
-- 🎓 B.S. Data Science @ **IIT Madras**
-- 💡 Aspiring Data Scientist with interest in **Machine Learning**, **Python**, **SQL**
-- 🔍 Always exploring new technologies and solving real-world problems
-- 🌱 Currently learning about **Large Language Models (LLMs)**
-- 📫 Reach me at: **sarohaparveen002@gmail.com**
+- 🎓 ECE @ **Panjab University**, Chandigarh  
+- 🎓 B.S. Data Science @ **IIT Madras**  
+- 💡 I’m passionate about **Data Science**, **Machine Learning**, and solving real-world problems  
+- 🌱 Currently learning **LLMs (Large Language Models)** and **Generative AI**  
+- 🛠️ Skilled in Python, SQL, ML, DL, and full-stack project building  
+- 📫 Reach me at: [Click to Email](mailto:sarohaparveen002@gmail.com)
+
 
 ---
 
@@ -43,27 +44,22 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
-  </a>
+  <!-- Programming Languages -->
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/></a>
+  
+  <!-- Data Science -->
+  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
+  
+  <!-- Backend -->
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
 </p>
 
 ---
