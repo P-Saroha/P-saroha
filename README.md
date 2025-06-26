@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Developer Avatar" />
 </p>
 
-
 <h1 align="center">
   Hi there 👋, I'm <span style="color:#40E0D0">Parveen Saroha</span>
 </h1>
@@ -98,10 +97,10 @@ Stack: Flask, REST APIs, Jinja2, Bootstrap
 
 ---
 
-## 🏆 GitHub Profile Trophy
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=p-saroha&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophy"/>
+  <img src="https://raw.githubusercontent.com/p-saroha/p-saroha/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -112,6 +111,14 @@ Stack: Flask, REST APIs, Jinja2, Bootstrap
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p-saroha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-saroha&layout=compact&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=p-saroha&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌍 Visitors
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=p-saroha&label=VISITORS&countColor=%23263759" />
 </p>
 
 ---
