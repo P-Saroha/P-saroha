@@ -110,7 +110,7 @@ Stack: Flask, REST APIs, Jinja2, Bootstrap
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p-saroha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-saroha&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=p-saroha&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=p-saroha&theme=tokyonight&hide_border=true&r=1719420663" />
 </p>
 
 ---
