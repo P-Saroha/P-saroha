@@ -105,32 +105,14 @@
 
 ---
 
-## 🔥 GitHub Streak & Activity
-
-<!-- 🔥 CURRENT STREAK WITH NUMBERS -->
-<div align="center">
-
-### 📊 Coding Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-saroha&theme=tokyonight&hide_border=true&cache_seconds=300&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
-</p>
-
-</div>
+## 🔥 GitHub Activity
 
 <!-- 📈 CONTRIBUTION ACTIVITY OVERVIEW -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=p-saroha&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&cache_seconds=300" />
 </p>
+--
 
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/p-saroha/p-saroha/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 📈 GitHub Stats
 
@@ -149,7 +131,7 @@
 <!-- 🏆 GITHUB TROPHIES -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=p-saroha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=600" />
-</p>L-TIME STREAK STATS -->
+</p>
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com/?user=p-saroha&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D&cache_seconds=300" />
 </p>
