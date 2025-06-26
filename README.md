@@ -136,15 +136,6 @@
   <img height="180em" src="https://streak-stats.demolab.com/?user=p-saroha&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D&cache_seconds=300" />
 </p>
 
-
----
-
-## 🌍 Visitors
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=p-saroha&label=VISITORS&countColor=%23263759" />
-</p>
-
 ---
 
 <p align="center">
