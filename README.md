@@ -51,7 +51,7 @@
 
 ### 🚀 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css" alt="Programming Languages" />
 </p>
 
 ### 🤖 Data Science & Machine Learning
@@ -61,7 +61,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="Scikit-learn" />
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" height="50" alt="PyTorch" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" height="50" alt="TensorFlow" />
   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="50" height="50" alt="Matplotlib" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50" alt="Seaborn" />
 </p>
