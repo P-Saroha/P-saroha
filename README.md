@@ -68,12 +68,12 @@
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,flask,html,css,js,bootstrap" alt="Web Development" />
+  <img src="https://skillicons.dev/icons?i=vue,flask,html,css,bootstrap" alt="Web Development" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases" />
 </p>
 
 ### 🔧 Development Tools
@@ -86,82 +86,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="50" height="50" alt="Google Colab" />
   <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="50" height="50" alt="Kaggle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50" height="50" alt="Anaconda" />
 </p>
 
 </div>
 
----
-
-## 🎯 Core Competencies
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Machine Learning
-- **Supervised Learning**
-  - Linear/Logistic Regression
-  - Decision Trees & Random Forest
-  - Support Vector Machines
-  - Neural Networks
-
-- **Unsupervised Learning**
-  - K-Means Clustering
-  - Hierarchical Clustering
-  - Principal Component Analysis
-
-- **Deep Learning**
-  - Artificial Neural Networks
-  - Convolutional Neural Networks
-  - PyTorch Framework
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Data Science Pipeline
-- **Data Collection & Cleaning**
-  - Web Scraping
-  - API Integration
-  - Data Preprocessing
-
-- **Exploratory Data Analysis**
-  - Statistical Analysis
-  - Data Visualization
-  - Feature Engineering
-
-- **Model Development**
-  - Model Selection & Tuning
-  - Cross-validation
-  - Performance Metrics
-
-- **Deployment**
-  - Flask API Development
-  - Model Productionization
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 🌟 Specialized Skills
 
-<div align="center">
-
-| **Domain** | **Technologies** | **Proficiency** |
-|------------|------------------|----------------|
-| 🤖 **Machine Learning** | Scikit-learn, PyTorch, TensorFlow | ⭐⭐⭐⭐⭐ |
-| 📊 **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn | ⭐⭐⭐⭐⭐ |
-| 🐍 **Python Development** | Flask, FastAPI, Object-Oriented Programming | ⭐⭐⭐⭐⭐ |
-| 🗄️ **Database Management** | MySQL, SQLite, Data Modeling | ⭐⭐⭐⭐ |
-| 🌐 **Web Development** | Vue.js, HTML/CSS, REST APIs | ⭐⭐⭐⭐ |
-| ☁️ **Cloud Platforms** | Google Colab, Jupyter, Kaggle | ⭐⭐⭐⭐ |
-| 🔧 **Version Control** | Git, GitHub, Collaborative Development | ⭐⭐⭐⭐ |
-
-</div>
-
----
 
 ## 🚀 Currently Learning
 
@@ -176,12 +108,17 @@
 
 ## 🔥 GitHub Streak & Activity
 
-<!-- 🔥 CURRENT STREAK HIGHLIGHT -->
+<!-- 🔥 CURRENT STREAK WITH NUMBERS -->
+<div align="center">
+
+### 📊 Coding Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=p-saroha&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D&cache_seconds=300&stroke=0000&background=1A1B27&ring=38BDAE&fire=BF91F3&currStreakNum=70A5FD&sideNums=70A5FD&currStreakLabel=38BDAE&sideLabels=38BDAE&dates=70A5FD" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-saroha&theme=tokyonight&hide_border=true&cache_seconds=300&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
 </p>
 
-<!-- 📈 CONTRIBUTION ACTIVITY GRAPH -->
+</div>
+
+<!-- 📈 CONTRIBUTION ACTIVITY OVERVIEW -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=p-saroha&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&cache_seconds=300" />
 </p>
@@ -198,30 +135,26 @@
 
 ## 📈 GitHub Stats
 
+<!-- 🔥 MAIN STATS WITH BETTER CACHING -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p-saroha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-saroha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p-saroha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1200" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-saroha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1200" />
 </p>
 
-<!-- 🔥 REAL-TIME STREAK STATS -->
+<!-- 📊 COMPREHENSIVE ACTIVITY OVERVIEW -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=p-saroha&theme=tokyonight&cache_seconds=600" />
+</p>
+
+
+<!-- 🏆 GITHUB TROPHIES -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=p-saroha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=600" />
+</p>L-TIME STREAK STATS -->
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com/?user=p-saroha&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D&cache_seconds=300" />
 </p>
 
-<!-- 📊 ADDITIONAL LIVE STATS -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=p-saroha&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=p-saroha&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=p-saroha&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=p-saroha&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=p-saroha&theme=tokyonight&utcOffset=5.5" />
-</p>
 
 ---
 
