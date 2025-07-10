@@ -28,7 +28,7 @@
 - 🎓 ECE @ **Panjab University**, Chandigarh  
 - 🎓 B.S. Data Science @ **IIT Madras**  
 - 💡 Passionate about **Data Science**, **Machine Learning**, and real-world problem solving  
-- 🌱 Currently learning **LLMs (Large Language Models)** and **Generative AI**
+
 
 ---
 
